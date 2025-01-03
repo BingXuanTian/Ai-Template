@@ -8,16 +8,15 @@ AI提问模板是一个帮助你获得更精确、全面的解答的工具，特
 
 
 ## 适用于有推理功能的AI 
- 如[ChatGPT](https://chatgpt.com/)【需要魔法上网】
-   [Kimi](https://kimi.moonshot.cn/)
+ 如
+ - [ChatGPT](https://chatgpt.com/)【需要魔法上网】<br>
+ -  [Kimi](https://kimi.moonshot.cn/)
 ## 使用步骤
 
 1. **复制提问模板**
-   为了方便你使用模板，点击下面的按钮可以自动复制模板内容：
-
-[复制AI提问模板](https://github.com/BingXuanTian/Ai-Template/blob/main/Ai%20Exam%20Review%20Template.md)
 
 
+点击跳转到模板页面:![复制AI提问模板](https://github.com/BingXuanTian/Ai-Template/blob/main/Ai%20Exam%20Review%20Template.md)
 
   2. **将模板发送给你的**
 将模板中的内容填写完整后，提交给AI。AI会根据你的问题背景和要求，提供详细的解答，并帮助你发现可能存在的学习盲点。
@@ -35,3 +34,6 @@ AI提问模板是一个帮助你获得更精确、全面的解答的工具，特
 - **检查答复中的遗漏**：确保AI的回答覆盖了你的所有问题，尤其是在解题过程中，如果有遗漏的细节，重新提问并要求补充。
 
 通过这个模板，你可以高效地得到答案并优化学习效果。
+
+
+

@@ -9,6 +9,7 @@ AI提问模板是一个帮助你获得更精确、全面的解答的工具，特
 
 ## 适用于有推理功能的AI 
  如
+ - [豆包](https://www.doubao.com/chat/)
  - [Deepseek](https://chat.deepseek.com/)<br>
  - [ChatGPT](https://chatgpt.com/)【需要魔法上网】<br>
  -  [Kimi](https://kimi.moonshot.cn/)

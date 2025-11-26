@@ -9,10 +9,11 @@ AI提问模板是一个帮助你获得更精确、全面的解答的工具，特
 
 ## 适用于有推理功能的AI 
  如
- - [豆包](https://www.doubao.com/chat/)
+ - [gemini](https://gemini.google.com/)【中国大陆用户需要魔法上网】<br>
+ - [ChatGPT](https://chatgpt.com/)【中国大陆用户需要魔法上网】<br>
  - [Deepseek](https://chat.deepseek.com/)<br>
- - [ChatGPT](https://chatgpt.com/)【需要魔法上网】<br>
- -  [Kimi](https://kimi.moonshot.cn/)
+ - [豆包](https://www.doubao.com/chat/)<br>
+ -  [Kimi](https://kimi.moonshot.cn/)<br>
 ## 使用步骤
 
 1. **复制提问模板**
